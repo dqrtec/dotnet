@@ -1,0 +1,11 @@
+/home/zzzmata/Área de Trabalho/cs/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/zzzmata/Área de Trabalho/cs/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/zzzmata/Área de Trabalho/cs/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/zzzmata/Área de Trabalho/cs/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/zzzmata/Área de Trabalho/cs/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/zzzmata/Área de Trabalho/cs/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/zzzmata/Área de Trabalho/cs/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/zzzmata/Área de Trabalho/cs/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/zzzmata/Área de Trabalho/cs/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/zzzmata/Área de Trabalho/cs/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/zzzmata/Área de Trabalho/cs/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
